@@ -15,7 +15,7 @@ big words really mean.
 - proof of concept: I dreamed up this editing system for HTML documents while walking through the woods, so I am doing
 this to see if my ideas will actually work
 - WYSIWYG: What You See Is What You Get editor - means that you don't write any markup to produce HTML documents
-- retro: the editor will have a feeling as if it is from he days of the console; *nix users will feel right at home = )
+- retro: the editor will have a feeling as if it is from the days of the console; *nix users will feel right at home = )
 
 
 TODO
