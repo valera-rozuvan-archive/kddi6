@@ -48,7 +48,8 @@ should be available via the configuration pop-up.
 Version 0.1
 -----------
 
-- initial start of the project
-- creation of basic folder structure
+- ~~initial start of the project~~
+- ~~creation of basic folder structure~~
+- ~~simple logic: start of application code~~
+- ~~writing up of TODO items for several next releases (versions)~~
 - adding of initial documentation on the project
-- writing up of TODO items for several next releases (versions)
