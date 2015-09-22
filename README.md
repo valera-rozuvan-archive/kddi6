@@ -18,6 +18,13 @@ this to see if my ideas will actually work
 - retro: the editor will have a feeling as if it is from the days of the console; *nix users will feel right at home = )
 
 
+Current version
+---------------
+
+- Stable: ~Version 0.1~
+- Unstable: ~-~
+
+
 TODO
 ----
 
