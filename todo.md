@@ -52,4 +52,4 @@ Version 0.1
 - ~~creation of basic folder structure~~
 - ~~simple logic: start of application code~~
 - ~~writing up of TODO items for several next releases (versions)~~
-- adding of initial documentation on the project
+- ~~adding of initial documentation on the project~~
