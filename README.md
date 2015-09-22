@@ -27,6 +27,12 @@ Current version
 - Unstable: `-`
 
 
+Demo
+----
+
+You can play around with `version 0.1` of `kddi6` at the [demo](http://valera-rozuvan.github.io/kddi6/) page.
+
+
 TODO
 ----
 
@@ -36,7 +42,7 @@ What needs to be done. A per version list. [TODO](todo.md).
 License
 -------
 
-As is the usual with my open source projects, *kddi6* is licensed under the terms of the GNU GENERAL PUBLIC LICENSE
+As is the usual with my open source projects, `kddi6` is licensed under the terms of the GNU GENERAL PUBLIC LICENSE
 Version 2, June 1991.
 
 See [LICENSE](LICENSE) file for more information.
