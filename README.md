@@ -23,8 +23,8 @@ this to see if my ideas will actually work
 Current version
 ---------------
 
-- Stable: `Version 0.1`
-- Unstable: `-`
+- Stable: `version 0.1` ([master](https://github.com/valera-rozuvan/kddi6/tree/master) branch)
+- Unstable: `version 0.2` ([version-0.2](https://github.com/valera-rozuvan/kddi6/tree/version-0.2) branch)
 
 
 Demo
