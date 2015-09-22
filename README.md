@@ -33,6 +33,13 @@ Demo
 You can play around with `version 0.1` of `kddi6` at the [demo](http://valera-rozuvan.github.io/kddi6/) page.
 
 
+Installing
+----------
+
+For version 0.1 the installing process is as simple as checking out this repository, and openning up the
+file `app/index.html` in a web browser.
+
+
 TODO
 ----
 
