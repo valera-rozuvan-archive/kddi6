@@ -36,7 +36,7 @@ You can play around with `version 0.1` of `kddi6` at the [demo](http://valera-ro
 Installing
 ----------
 
-For version 0.1 the installing process is as simple as checking out this repository, and openning up the
+For `version 0.1` the installing process is as simple as checking out this repository, and opening up the
 file `app/index.html` in a web browser.
 
 
