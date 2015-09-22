@@ -21,8 +21,8 @@ this to see if my ideas will actually work
 Current version
 ---------------
 
-- Stable: ~Version 0.1~
-- Unstable: ~-~
+- Stable: `Version 0.1`
+- Unstable: `-`
 
 
 TODO
