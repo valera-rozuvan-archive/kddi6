@@ -3,6 +3,8 @@ kddi6
 
 Retro WYSIWYG HTML editor
 
+![demo-version-0.1](screen_casts/version1.gif)
+
 
 About
 -----

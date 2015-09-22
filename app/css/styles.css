@@ -87,3 +87,14 @@
 .term, .row, .cell {
   cursor: default;
 }
+
+/* Specific terms starting coordinates. */
+#t1 {
+  left: 120px;
+  top: 126px;
+}
+
+#t1-sh {
+  left: 114px;
+  top: 120px;
+}
